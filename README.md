@@ -27,7 +27,7 @@ The dataset contains sales information including product details, categories, sa
 
 ## Dashboard Preview
 
-![Power BI Dashboard](PowerBI_Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Project Files
 - Power BI Dashboard (.pbix) file
